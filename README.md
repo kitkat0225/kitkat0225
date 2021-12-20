@@ -1,5 +1,31 @@
-# Hi, Nice to see you.
-I am Jun Li, Full Stack Developer from China. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
+# Jun Li - Front End Engineer
+kitkat.0225@outlook.com
+
+https://github.com/kitkat0225
+
+## About Me
+I'm a front end developer with experience developing complex, high profile web applications collaborating with both small and large teams. I specialise in JavaScript, thriving in an agile environment leveraging modern technologies such as React and Redux. I pride myself in writing scalable, elegant code — creating simple solutions to complex problems.
+
+## Skills
+- JavaScript
+- Node.js
+- TypeScript
+- HTML
+- CSS / SCSS / LESS
+- React
+- Redux
+- Webpack
+- TDD
+- Agile
+- Python
+- Java/JSP
+
+## Education
+### B.S. Computer Science
+ShanHai JiaoTong University (Apr 2007 - Oct 2011)
+- Focused on front-end web development such as HTML, CSS and JavaScript.
+- Completed Computer Science classes covering OOP and Java.
+
 <!--
 **kitkat0225/kitkat0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
