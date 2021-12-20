@@ -22,7 +22,7 @@ I'm a front end developer with experience developing complex, high profile web a
 
 ## Education
 ### B.S. Computer Science
-ShanHai JiaoTong University (Apr 2007 - Oct 2011)
+ShangHai JiaoTong University (Apr 2007 - Oct 2011)
 - Focused on front-end web development such as HTML, CSS and JavaScript.
 - Completed Computer Science classes covering OOP and Java.
 
