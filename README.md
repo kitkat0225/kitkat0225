@@ -26,4 +26,6 @@ I'm a front end developer with experience developing complex, high profile web a
 - Focused on front-end web development such as HTML, CSS and JavaScript.
 - Completed Computer Science classes covering OOP and Java.
 
-[![JunLi's github stats](https://github-readme-stats.vercel.app/api?username=kitkat0225&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![JunLi's github stats](https://github-readme-stats.vercel.app/api?username=kitkat0225&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/kitkat0225/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkat0225)](https://github.com/kitkat0225/github-readme-stats)
