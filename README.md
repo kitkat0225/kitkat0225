@@ -1,4 +1,4 @@
-# Jun Li - Frontend Developer
+# Frontend Developer
 kitkat.0225@outlook.com
 
 https://github.com/kitkat0225
