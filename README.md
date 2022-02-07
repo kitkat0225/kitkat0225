@@ -12,6 +12,7 @@ I'm a front end developer with experience developing complex, high profile web a
 - TypeScript
 - HTML
 - CSS / SCSS / LESS
+- Angular
 - React
 - Redux
 - Webpack
